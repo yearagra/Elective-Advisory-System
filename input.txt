@@ -1,0 +1,17 @@
+yes('java').
+no('python').
+no('programming').
+no('handonprojects').
+yes('math').
+no('goodprogramming').
+no('hardwareofpc').
+no('network').
+no('economics').
+yes('dsa').
+no('uiux').
+no('animation').
+no('machinelearning').
+cse1(yes).
+ece1(no).
+csam1(no).
+csd1(no).
